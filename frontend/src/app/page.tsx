@@ -1,5 +1,6 @@
 "use client";
 
+// Trigger Vercel deployment rebuild under the /frontend root directory configuration
 import React from "react";
 import { useCsvImport } from "../hooks/useCsvImport";
 import UploadZone from "../components/UploadZone";
